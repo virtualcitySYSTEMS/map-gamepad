@@ -1,0 +1,31 @@
+{
+  "name": "navigator",
+  "controllers": [
+    {
+      "type": "GamepadController",
+      "id": "PS(R) Gamepad (Vendor: 0e8f Product: 3075)",
+      "scales": {
+        "forward": -1,
+        "right": 1,
+        "up": 1,
+        "tiltDown": -0.5,
+        "rollRight": 1,
+        "turnRight": 1
+      },
+      "mapping": {
+        "forward": 1,
+        "right": 0,
+        "up": {
+          "+": 4,
+          "-": 5
+        },
+        "tiltDown": 5,
+        "rollRight": {
+          "+": 6,
+          "-": 7
+        },
+        "turnRight": 2
+      }
+    }
+  ]
+}
