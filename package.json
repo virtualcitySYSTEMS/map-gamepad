@@ -1,6 +1,6 @@
 {
   "name": "@vcmap/gamepad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gamepad and controller support for map navigation",
   "type": "module",
   "main": "dist/index.js",
